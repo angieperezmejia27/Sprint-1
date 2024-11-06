@@ -1,0 +1,265 @@
+#main-title{
+    font-family: "ivyora-display", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    
+    
+}
+  body{
+    font-family: "ivyora-display", sans-serif;
+    background-color: rgba(255, 217, 236, 0.3);;
+  }
+.header {
+  padding-top: 200px;
+  padding-bottom: 200px;
+  text-align: center;
+  color: white;
+  font-size: 30px;
+  background-color: rgba(255, 217, 236, 0.3);
+  background-image: url("../img/download\ \(1\).jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top left;
+  background-position: top center;
+  background-position: top right;
+  
+
+}
+
+.first-title{
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    background-color: rgba(255, 217, 236, 0.3);
+    
+    
+}
+
+  /*
+  .first-image{
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-color: rgba(255, 217, 236, 0.3);
+    background-image: url("../img/download (3).jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    
+  }
+*/
+  .second-title{
+    padding-top: 30px;
+    padding-bottom: 100px;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    
+    
+    
+    
+  }
+
+  .page2-header{
+    background-color: rgba(255, 217, 236, 0.3);
+    
+
+  }
+  #page2-img1 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   width: 80%;
+   border-radius: 5%;
+    
+  }
+  #page2-main-title{
+    font-size: 50px;
+    font-weight: 500;
+    font-style: normal;
+    text-align: center;
+    padding-bottom: 30px;
+    padding-top: 20px;
+  }
+  #page2-p{
+    font-size: 20px;
+    text-align: center;
+    padding-bottom: 30px;
+  }
+
+  #page2-img2 img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   width: 30%;
+    border-radius: 50%;
+    
+  }
+
+  #howTo {
+    padding: 40px;
+    font-size: 20px;
+    line-height: 1.8;
+  
+  }
+
+  .return-home{
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-size: 20px;
+  }
+
+
+
+
+.third-title{
+ font-size: 25px;
+ line-height: 1.5;
+}
+
+#third-header{
+  text-align: right;
+  padding-right: 250px;
+  font-size: 50px;
+  
+  
+}
+
+#third-img1 img{
+  width: 30%;
+  padding-left: 20px;
+  border-radius: 10%;
+  float: left;
+  margin-right: 15px;
+ 
+  
+}
+
+
+.fourth-title{
+  font-size: 25px;
+  line-height: 1.5;
+ }
+ 
+ #fourth-header{
+   text-align: right;
+   padding-right: 150px;
+   font-size: 50px;
+  
+   
+   
+ }
+ 
+ #fourth-img1 img{
+   width: 30%;
+   padding-right: 20px;
+   border-radius: 10%;
+   float: right;
+   margin-left: 12px;
+  
+   
+ }
+
+.page3-header{
+padding-top: 30px;
+font-family: "ivyora-display", sans-serif;
+color: #a5cd5b;
+}
+
+.page3-header h1{
+  font-size: 50px;
+  
+}
+
+#page3-img1 img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ width: 50%;
+ border-radius: 5%;
+}
+
+
+.page4-header h1{
+  font-family: "ivyora-display", sans-serif;
+  padding-top: 40px;
+  padding-bottom: 20px;
+  font-size: 60px;
+  text-align: center;
+  color: #900C3F;
+
+}
+#page4-img1 img{
+  width: 340px;
+  height:350px;
+  padding-right: 20px;
+  float: right;
+  margin-left: 15px;
+  padding-bottom: 30px;
+}
+
+
+#page4-img2 img{
+  width: 340px;
+  height:350px;
+  padding-right: 20px;
+  float: right;
+  margin-left: 15px;
+  padding-bottom: 40px;
+}
+
+.page1-ending{
+ text-align: center;
+ margin-left: 150px;
+ margin-right: 150px;
+ font-size: 15px;
+}
+
+#page1-block{
+  margin-top: 70px;
+  margin-left: 150px;
+  margin-right: 150px;
+  margin-bottom: 30px;
+  padding: 20px;
+  display: block;
+  outline-style: double;
+  outline-color: #edc7e4;
+  outline-width: 10px;
+  background-color: #edc7e4;
+  color: #581845;
+  font-size: 20px;
+  text-align: center;
+}
+
+#page5-img1 img{
+  width: 50%;
+  margin-right: auto;
+  border-radius: 15%;
+  float: right;
+  margin-left: 15px;
+}
+
+.page5-header h1{
+margin-left: 140px;
+padding-top: 40px;
+font-size: 50px;
+}
+
+
+#page5-box{
+  margin-top: 70px;
+  margin-left: 15px;
+  margin-right: 600px;
+  margin-bottom: 30px;
+  padding: 20px;
+  display: block;
+  outline-style: double;
+  outline-color: #edc7e4;
+  outline-width: 10px;
+  background-color: #edc7e4;
+  color: #581845;
+  font-size: 20px;
+  text-align: center;
+}
+
